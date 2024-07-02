@@ -1,0 +1,48 @@
+.form-container {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        border-radius: 5px;
+    }
+
+label{
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+    color:white;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="time"],
+textarea {
+    display: block;
+    width: 100%;
+    font: inherit;
+    padding: 0.4rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+  }
+
+.lista-citas .media {
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 3rem;
+  }
+
+  .lista-citas .media:last-of-type {
+    border-bottom: 0;
+  }
+
+  .lista-citas .media-body p {
+    margin: 0;
+  }
+
+  .lista-citas .media-body button {
+    margin-top: 1rem !important;
+  }
+
+  .lista-citas .media-body span {
+    font-weight: bold;
+  }
+
+

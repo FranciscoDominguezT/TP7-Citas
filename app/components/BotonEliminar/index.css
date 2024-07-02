@@ -1,0 +1,17 @@
+.button-eliminar{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: none;
+}
+
+.button-eliminar :hover{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: none;
+}
